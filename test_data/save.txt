@@ -1,0 +1,6 @@
+state	area (sq. mi)
+Alabama	52423
+Alaska	656425
+Arizona	114006
+Arkansas	53182
+California	163707
